@@ -1,3 +1,2 @@
-# guiseek.github.io
 # Cuccículo
-# Guilherme Siquinelli
+## guiseek.github.io & guiseek.js.org
