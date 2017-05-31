@@ -1,0 +1,173 @@
+{
+  "meta": {
+    "title": "Gui Seek",
+    "description": "Profile"
+  },
+  "direction": "ltr",
+  "profile": "{{@link=partials/profile.html}}",
+  "menu": {
+    "title": "Pular para:",
+    "links": [
+      {
+        "title": "Carreira",
+        "url": "#career"
+      },
+      {
+        "title": "Formaçação acadêmica",
+        "url": "#education"
+      },
+      {
+        "title": "Contribuições",
+        "url": "#contributions"
+      },
+      {
+        "title": "Palestras & Cursos",
+        "url": "#talks"
+      },
+      {
+        "title": "Livros",
+        "url": "#books"
+      },
+      {
+        "title": "Eventos",
+        "url": "#events"
+      },
+      {
+        "title": "Competências",
+        "url": "#skills"
+      },
+      {
+        "title": "Projetos",
+        "url": "#projects"
+      },
+      {
+        "title": "Github",
+        "url": "#github"
+      },
+      {
+        "title": "Pacotes disponíveis no NPM",
+        "url": "#packages"
+      }
+    ]
+  },
+  "career": {
+    "title": "Carreira",
+    "text": "{{@link=partials/career.html}}"
+  },
+  "education": {
+    "title": "Formação acadêmica",
+    "text": "{{@link=partials/education.html}}"
+  },
+  "contributions": {
+    "title": "Contribuições",
+    "text": "{{@link=partials/contributions.html}}"
+  },
+  "talks": {
+    "title": "Palestras & Cursos",
+    "text": "{{@link=partials/talks.html}}"
+  },
+  "events": {
+    "title": "Eventos",
+    "text": "{{@link=partials/events.html}}"
+  },
+  "books": {
+    "title": "Livros",
+    "credit": true,
+    "box": false,
+    "text": "{{@link=partials/books.html}}",
+    "links": [
+      {
+        "name": "Estruturas de dados e algoritmos em JavaScript",
+        "url": "https://novatec.com.br/livros/estruturas-de-dados-algoritmos-em-javascript/",
+        "description": "por Loian Groner"
+      },
+      {
+        "name": "Desenvolvendo com AngularJS",
+        "url": "http://www.novateceditora.com.br/livros/angularjs/",
+        "description": "por Shyam Seshadri & Brad Green"
+      },
+      {
+        "name": "Segredos do Ninja JavaScript",
+        "url": "http://novatec.com.br/livros/ninja-javascript/",
+        "description": "por John Resig & Bear Bibeault"
+      },
+      {
+        "name": "JavaScript. O guia definitivo",
+        "url": "http://www.grupoa.com.br/livros/programacao/javascript/9788565837194",
+        "description": "por David Flanangan"
+      },
+      {
+        "name": "Zend Framework 2&ordf; Edição",
+        "url": "http://novatec.com.br/livros/zendframework-2ed/",
+        "description": "por Flávio Gomes da Silva Lisboa"
+      },
+      {
+        "name": "Zend Framework 2 na prática",
+        "url": "https://leanpub.com/zend-framework2-na-pratica",
+        "description": "por Elton Minetto"
+      },
+      {
+        "name": "Doctrine na prática",
+        "url": "https://leanpub.com/doctrine-na-pratica",
+        "description": "por Elton Minetto"
+      },
+      {
+        "name": "HTML 5 e CSS3 com farinha e pimenta",
+        "url": "http://www.clubedeautores.com.br/book/124694--HTML5_e_CSS3_com_Farinha_e_Pimenta#.VZMIDXvNoXw",
+        "description": "por Diego Eis"
+      }
+    ]
+  },
+  "github": {
+    "title": "Repositórios no Github"
+  },
+  "helpers": {
+    "title": "Ajudantes",
+    "links": [
+      {
+        "name": "npm",
+        "img": "npm.png",
+        "url": "https://npmjs.org",
+        "description": ""
+      },
+      {
+        "name": "bower",
+        "img": "bower-logo.png",
+        "url": "http://bower.io",
+        "description": ""
+      },
+      {
+        "name": "yeoman",
+        "img": "yeoman-logo.png",
+        "url": "http://yeoman.io",
+        "description": ""
+      },
+      {
+        "name": "grunt",
+        "img": "grunt-logo.png",
+        "url": "http://gruntjs.com",
+        "description": ""
+      },
+      {
+        "name": "gulp",
+        "img": "gulp.png",
+        "url": "http://gulpjs.com",
+        "description": ""
+      }
+    ]
+  },
+  "languages": [
+    {
+      "url": "pt-br",
+      "name": "Português"
+    },
+    {
+      "url": "es-es",
+      "name": "Español"
+    },
+    {
+      "url": "en-us",
+      "name": "English"
+    }
+  ]
+}

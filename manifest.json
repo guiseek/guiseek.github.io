@@ -1,0 +1,7 @@
+{
+  "name": "Gui Seek",
+  "icons": [],
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "portrait"
+}
