@@ -7,15 +7,15 @@ module.exports = function(grunt){
 
         application:{
           dev: {
-            csspath:"/assets/css/",
-            jspath:"/assets/js/",
-            imgpath:"/assets/img/",
+            csspath:"assets/css/",
+            jspath:"assets/js/",
+            imgpath:"assets/img/",
 
           },
           dist:{
-            csspath:"/assets/css/",
-            jspath:"/assets/js/",
-            imgpath:"/assets/img/",
+            csspath:"assets/css/",
+            jspath:"assets/js/",
+            imgpath:"assets/img/",
           }
         },
         uglify:{
